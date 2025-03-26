@@ -13,7 +13,7 @@ MakeWindow({
     KeySystem = true,
     Title = "PresidentZuyi - Lavinho Release✅🇧🇷",
     Description = "^ Blue Lock Rivals ^",
-    KeyLink = "https://discord.gg/TAFQb2QvaM",
+    KeyLink = "https://discord.gg/72q5yvpfEJ",
     Keys = {"lavinhoupdate", "lavinhoupdate", "lavinhoupdate", "lavinhoupdate", "lavinhoupdate"},
     Notifi = {
       Notifications = true,
